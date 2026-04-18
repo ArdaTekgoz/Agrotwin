@@ -22,6 +22,7 @@ Bu proje, küçük ve orta ölçekli üreticilerin topraksız tarım sistemlerin
 Proje iki ana klasörden oluşmaktadır:
 - `/Frontend`: Flutter mobil uygulama kodları.
 - `/Backend`: Spring Boot API ve veri işleme kodları.
+- `/AI/ML`:Yapay Zeka, ML ve Chatbot (LLM) kodları.
 
 ## 👷 Kurulum (Geliştiriciler İçin)
 
